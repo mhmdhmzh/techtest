@@ -1,16 +1,16 @@
-# techtest
+# Flutter Tech Test kitabisa.com
 
-A new Flutter project.
+using: 
 
-## Getting Started
+- Xcode 13.3.1
+- Flutter (Channel stable, 3.0.0, on macOS 12.2.1 21D62 darwin-arm, locale en-ID)
+- Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
+- Xcode - develop for iOS and macOS (Xcode 13.3.1)
+- Chrome - develop for the web
+- Android Studio (version 2021.2)
+- VS Code (version 1.69.2)
+- Connected device (2 available)
+- HTTP Host Availability
+- FVM 2.3.1
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Plugins can be seen on pubspec.yaml

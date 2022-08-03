@@ -14,3 +14,8 @@ using:
 - FVM 2.3.1
 
 Plugins can be seen on pubspec.yaml
+
+# Flutter test command
+
+use this command for testing and store it to file "tests.output"
+    flutter test > tests.output

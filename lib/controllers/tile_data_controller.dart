@@ -18,15 +18,8 @@ class TileDataController extends GetxController {
 
     final tileData = await TileDataServices.getTileData();
     print('awoawok $tileData');
-    // if (tileData) {
     tileDataModel = tileData;
-    print('ahihihiy ${tileDataModel!.data}');
     isLoading(false);
     update();
-    // } else {
-    //   print('error');
-    //   isLoading(false);
-    //   update();
-    // }
   }
 }
